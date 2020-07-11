@@ -1,4 +1,4 @@
-# devopstask3
+# devopstask6
 
 ## TASK DESCRIPTION:
 
@@ -29,12 +29,12 @@
   [SEED_JOB](https://github.com/raghav1674/devops-task6-seed/blob/master/seed_job)
 
 
-<img src="   ">
+<img src="https://github.com/raghav1674/devops-task-6-complete/blob/master/job_generated_seed.PNG">
 
 
 For running the DSL Script either you can approve in In-process Script Approval or u can disable Enable script security for Job DSL scripts   option in MANAGE JENKINS > CONFIGURE GLOBAL SECURITY
 
-<img src="  ">
+<img src="https://github.com/raghav1674/devops-task-6-complete/blob/master/disable_this.PNG ">
 
 ## 3. Create a job chain of job1, job2, job3 and job4 using build pipeline plugin in Jenkins
  Job1 : Pull the Github repo automatically when some developers push repo to Github.
