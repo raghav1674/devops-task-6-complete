@@ -32,7 +32,7 @@
 <img src="https://github.com/raghav1674/devops-task-6-complete/blob/master/job_generated_seed.PNG">
 
 
-For running the DSL Script either you can approve in In-process Script Approval or u can disable Enable script security for Job DSL scripts   option in MANAGE JENKINS > CONFIGURE GLOBAL SECURITY
+For running the DSL Script either you can approve in **In-process Script Approval** or u can disable **Enable script security for Job DSL scripts**   option in MANAGE JENKINS > CONFIGURE GLOBAL SECURITY
 
 <img src="https://github.com/raghav1674/devops-task-6-complete/blob/master/diable_this.PNG ">
 
