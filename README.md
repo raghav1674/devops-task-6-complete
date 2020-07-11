@@ -2,6 +2,13 @@
 
 ## TASK DESCRIPTION:
 
+
+## 1.  Job2 ( Seed Job ) : Pull  the Github repo automatically when some developers push repo to Github.
+    Further on jobs should be pipeline using written code  using Groovy language by the developer
+    
+    
+  [SEED_JOB](https://github.com/raghav1674/devops-task6-seed/blob/master/seed_job)
+
 ## 1. Create container image that’s has Jenkins installed using dockerfile Or You can use the Jenkins Server on RHEL 8/7
 
 [Dockerfile](https://github.com/raghav1674/DEVOPS2/blob/master/Dockerfile)
